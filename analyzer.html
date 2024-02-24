@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Mood Analyzer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://logicpursuits.com/wp-content/uploads/2022/07/Why-Captemo-Emotion-Sentiment-Analyzer.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: right;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+        }
+
+        .left-side {
+            flex: 1;
+            background-image: url('https://miro.medium.com/v2/resize:fit:1000/1*YF4KdQE-RadFtNa6n66wdg.gif');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            border-radius: 10px 0 0 10px;
+        }
+
+        .right-side {
+            flex: 2;
+            padding: 20px;
+            font-size: 18px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 36px;
+            color: #333;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 20px;
+            color: #666;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            background-color: #FFA500;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #FF8C00;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left-side"></div>
+        <div class="right-side">
+            <h1>AI Mood Analyzer</h1>
+            <p>The AI Mood Analyzer, also known as Affective Computing, is an innovative application of Artificial Intelligence that revolutionizes emotional analysis. By leveraging advanced algorithms and machine learning techniques, it interprets human emotions based on facial expressions, body language, and voice tones. <br><br>This technology enhances our understanding of emotional states, aids in mental health assessment and intervention, and promotes emotional intelligence in today's digital age.</p>
+            <div class="buttons">
+                <!-- Use onclick attribute to call a JavaScript function for redirection -->
+                <button onclick="redirectToMoodAnalyzer()">Proceed to Mood Analyzer</button>
+                <button onclick="redirectToRecommendations()">Get Recommendations</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript to handle redirection -->
+    <script>
+        function redirectToMoodAnalyzer() {
+            // Replace '#' with the actual path or URL of the Mood Analyzer page
+            window.location.href = '#';
+        }
+
+        function redirectToRecommendations() {
+            // Replace '#' with the actual path or URL of the Recommendations page
+            window.location.href = 'recommendations.html';
+        }
+    </script>
+</body>
+</html>

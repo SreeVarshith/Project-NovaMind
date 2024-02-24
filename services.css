@@ -1,0 +1,1213 @@
+.frame1,
+.rectangle-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.frame1 {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(270deg, #007d6e, #5eb47c);
+}
+.rectangle-icon {
+  width: 1298px;
+  right: -216.5px;
+  bottom: -27.5px;
+  height: 532.3px;
+  object-fit: contain;
+  z-index: 1;
+}
+.g8-icon4 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+.mindfulcare5 {
+  margin: 0;
+  height: 38px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.g8-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.home2 {
+  font-weight: 600;
+}
+.about2,
+.home2,
+.services7 {
+  height: 27px;
+  position: relative;
+  display: inline-block;
+}
+.page2 {
+  position: relative;
+}
+.home-group {
+  width: 381px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.see-detail8 {
+  height: 30px;
+  position: relative;
+  font-size: var(--h6-size);
+  display: inline-block;
+  font-family: var(--h5);
+  color: var(--txt);
+  text-align: left;
+  white-space: nowrap;
+}
+.button8,
+.vector1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini);
+  background-color: var(--color);
+  width: 221px;
+  border-radius: var(--br-11xl);
+  justify-content: center;
+  white-space: nowrap;
+}
+.button8:hover,
+.button9:hover,
+.youremail:hover {
+  background-color: var(--color-chocolate);
+}
+.vector1 {
+  width: 1597px;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  z-index: 1;
+}
+.text4 {
+  height: 328px;
+  width: 5px;
+  position: relative;
+  background-color: var(--txt);
+  z-index: 1;
+}
+.about-us4 {
+  margin: 0;
+  height: 93px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.lorem-ipsum-dolor34 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.text-wrapper1,
+.text5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text5 {
+  align-self: stretch;
+  gap: var(--gap-31xl);
+  z-index: 2;
+}
+.text-wrapper1 {
+  width: 1175px;
+  padding: 0 var(--padding-12xs) var(--padding-8xl) 0;
+  box-sizing: border-box;
+  max-width: calc(100% - 25px);
+}
+.text3 {
+  width: 1264px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.hero1,
+.text-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text-container {
+  width: 1597px;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--h1-size);
+}
+.hero1 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-61xl) var(--padding-61xl) var(--padding-127xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-67xl);
+  text-align: left;
+  font-size: var(--h5-size);
+  color: var(--txt);
+  font-family: var(--h5);
+}
+.empowering-minds-our1,
+.services8 {
+  height: 30px;
+  position: relative;
+  display: inline-block;
+}
+.empowering-minds-our1 {
+  margin: 0;
+  align-self: stretch;
+  height: 148px;
+  font-size: var(--h2-size);
+  font-weight: 700;
+  font-family: inherit;
+}
+.text6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.mask-group-icon28,
+.mask-group-icon29,
+.mask-group-icon30 {
+  align-self: stretch;
+  height: 655.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.mask-group-icon30 {
+  object-fit: contain;
+}
+.frame-with-masks {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  min-width: 385px;
+  max-width: 100%;
+}
+.mask-group-icon31 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0.2px;
+  bottom: -0.3px;
+  left: -0.1px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-in-mask-group,
+.text-in-mask-group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.text-in-mask-group {
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180.16deg, rgba(39, 39, 39, 0.5), #000);
+  z-index: 1;
+}
+.rectangle-in-mask-group {
+  margin: 0 !important;
+}
+.mental-counseling3 {
+  margin: 0;
+  height: 59px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.lorem-ipsum-dolor35 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+  z-index: 2;
+}
+.mental-counseling-parent {
+  width: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+  max-width: 100%;
+}
+.see-detail9 {
+  height: 30px;
+  position: relative;
+  font-size: var(--h6-size);
+  display: inline-block;
+  font-family: var(--h5);
+  color: var(--txt);
+  text-align: left;
+}
+.button9 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) 34px var(--padding-3xs) var(--padding-21xl);
+  background-color: var(--color);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 2;
+}
+.rectangle-in-mask-group-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 212px var(--padding-xl) 211px;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+}
+.mask-group-icon32,
+.mask-group-icon33 {
+  align-self: stretch;
+  height: 655.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-with-masks1,
+.mask-groups-frame,
+.text-parent {
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  max-width: 100%;
+}
+.frame-with-masks1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 385px;
+}
+.mask-groups-frame,
+.text-parent {
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.mask-groups-frame {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  font-size: var(--h3-size);
+  color: var(--txt);
+}
+.text-parent {
+  width: 1358px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: var(--h6-size);
+  color: var(--color-black);
+  font-family: var(--h5);
+}
+.testimonial-frame2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(270deg, #007d6e, #5eb47c);
+}
+.instance-child1 {
+  width: 3182.5px;
+  position: absolute;
+  margin: 0 !important;
+  right: -1006.4px;
+  bottom: -1120.5px;
+  height: 1704.8px;
+  object-fit: contain;
+  z-index: 1;
+}
+.join-to-our2 {
+  margin: 0;
+  height: 93px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor36 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.frame-with-join-label {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+}
+.your-email2 {
+  width: 96px;
+  border: 0;
+  outline: 0;
+  font-family: var(--body1-light);
+  font-size: var(--body1-light-size);
+  background-color: transparent;
+  height: 27px;
+  position: relative;
+  color: var(--txt);
+  text-align: center;
+  display: inline-block;
+}
+.subscribe-us2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+  border: 1px solid var(--txt);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.your-email-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) var(--padding-21xl) var(--padding-3xl);
+  box-sizing: border-box;
+  position: relative;
+  min-width: 96px;
+  max-width: 100%;
+}
+.subscribe-us3 {
+  height: 30px;
+  position: relative;
+  font-size: var(--h6-size);
+  display: inline-block;
+  font-family: var(--h5);
+  color: var(--txt);
+  text-align: left;
+}
+.home-about-button,
+.youremail {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.youremail {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl);
+  background-color: var(--color);
+  width: 264px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 2;
+  margin-left: -1px;
+}
+.home-about-button {
+  width: 1061px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.frame-with-text-input,
+.testimonial-frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.frame-with-text-input {
+  width: 1155px;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  z-index: 2;
+}
+.testimonial-frame-group {
+  align-self: stretch;
+  overflow: hidden;
+  justify-content: center;
+  padding: var(--padding-80xl) var(--padding-2xl) var(--padding-80xl)
+    var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  text-align: center;
+  font-size: var(--h1-size);
+  color: var(--txt);
+  font-family: var(--h5);
+}
+.healing-words-testimonials2,
+.testimonials2 {
+  height: 30px;
+  position: relative;
+  display: inline-block;
+}
+.healing-words-testimonials2 {
+  margin: 0;
+  align-self: stretch;
+  height: 296px;
+  font-size: var(--h2-size);
+  font-weight: 700;
+  font-family: inherit;
+}
+.testimonial-frames,
+.testimonial-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.testimonial-label {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.testimonial-frames {
+  width: 499px;
+  padding: var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+  min-width: 499px;
+  max-width: 100%;
+}
+.rectangle-frame-mask-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(270deg, #007d6e, #5eb47c);
+}
+.mask-group-icon34 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor37 {
+  align-self: stretch;
+  height: 162px;
+  position: relative;
+  display: inline-block;
+}
+.george-j-4 {
+  position: relative;
+  font-size: var(--h6-size);
+  font-family: var(--h5);
+  text-align: left;
+}
+.lorem-ipsum-dolor-sit-amet-con-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.maskgroup-text,
+.rectangle-frame-mask {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.maskgroup-text {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  z-index: 1;
+}
+.rectangle-frame-mask {
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-46xl) var(--padding-25xl) var(--padding-49xl)
+    var(--padding-24xl);
+  box-sizing: border-box;
+  position: relative;
+  min-width: 279px;
+}
+.rectangle-frame-mask-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.mask-group-icon35 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor38 {
+  align-self: stretch;
+  height: 162px;
+  position: relative;
+  display: inline-block;
+}
+.george-j-5 {
+  position: relative;
+  font-size: var(--h6-size);
+  font-family: var(--h5);
+  text-align: left;
+}
+.lorem-ipsum-dolor-sit-amet-con-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.mask-group-parent9,
+.rectangle-frame-mask1 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.mask-group-parent9 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  z-index: 1;
+}
+.rectangle-frame-mask1 {
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-46xl) var(--padding-25xl) var(--padding-49xl)
+    var(--padding-24xl);
+  box-sizing: border-box;
+  position: relative;
+  min-width: 279px;
+  color: var(--txt1);
+}
+.call-message-location-frame,
+.testimonial-frames-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.call-message-location-frame {
+  flex: 1;
+  align-items: flex-start;
+  gap: var(--gap-27xl);
+  min-width: 589px;
+  text-align: center;
+  font-size: var(--body1-light-size);
+  color: var(--txt);
+  font-family: var(--body1-light);
+}
+.testimonial-frames-parent {
+  width: 1636px;
+  align-items: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-172xl);
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--color-black);
+  font-family: var(--h5);
+}
+.service-frame {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(270deg, #007d6e, #5eb47c);
+}
+.g8-icon5 {
+  height: 80px;
+  width: 80px;
+  position: relative;
+}
+.mindfulcare6 {
+  margin: 0;
+  height: 38px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.mindfulcare-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.lorem-ipsum-dolor39 {
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+  display: inline-block;
+}
+.g-frame {
+  width: 317px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.services9 {
+  margin: 0;
+  height: 38px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.case-management2,
+.mental-counseling4,
+.psychotherapy3,
+.services9,
+.support-groups4 {
+  position: relative;
+}
+.case-management-frame,
+.services-frame4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.case-management-frame {
+  gap: var(--gap-mini);
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.services-frame4 {
+  gap: var(--gap-11xl);
+}
+.contact3 {
+  margin: 0;
+  height: 38px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.call-icon2 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ronadomaincom-frame {
+  height: 27px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+}
+.call-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.message2 {
+  margin: 0;
+  height: 32px;
+  width: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ronadomaincom2 {
+  position: relative;
+  white-space: nowrap;
+}
+.message-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.location-icon3 {
+  height: 32px;
+  width: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lazyy-tower-192burn2,
+.location-icon3 {
+  position: relative;
+}
+.location-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.location-group,
+.testimonials-frame {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.join-newsletter-frame1,
+.subscribe-us-frame,
+.testimonials-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subscribe-us-frame {
+  align-self: stretch;
+  text-align: center;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.join-newsletter-frame1 {
+  width: 290px;
+  gap: var(--gap-11xl);
+}
+.links3 {
+  margin: 0;
+  height: 38px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.links3,
+.privacy-policy2,
+.term-of-use2 {
+  position: relative;
+}
+.term-of-use2 {
+  height: 27px;
+  display: inline-block;
+}
+.privacy-policy-term-of-use-fra,
+.services-frame5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.services-frame5 {
+  gap: var(--gap-mini);
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.privacy-policy-term-of-use-fra {
+  gap: var(--gap-11xl);
+}
+.maps4 {
+  margin: 0;
+  height: 38px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.maps-rectangle-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-frame3,
+.g-frame-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.contact-frame3 {
+  height: 189px;
+  width: 189px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.g-frame-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.home-about-services-frame-child {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+.psychotherapy-support-groups-c {
+  align-self: stretch;
+  width: 151px;
+  position: relative;
+  max-height: 100%;
+  min-height: 30px;
+}
+.mdilinkedin-icon2 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 30px;
+}
+.call-message-location-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.copyright-2023-mindfulcare2 {
+  position: relative;
+}
+.ronadomainlinkedin-frame {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  flex-shrink: 0;
+  font-size: var(--body1-light-size);
+  font-family: var(--body1-light);
+}
+.footer4,
+.home-about-services-frame,
+.ronadomainlinkedin-frame {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.home-about-services-frame {
+  width: 1596px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+  z-index: 1;
+}
+.footer4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-66xl);
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+  font-size: var(--h5-size);
+  color: var(--txt);
+  font-family: var(--h5);
+}
+.services-child {
+  width: 1373.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: 634px;
+  right: -768.5px;
+  height: 1643.9px;
+  object-fit: contain;
+  z-index: 3;
+}
+.services6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--bg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-181xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1725px) {
+  .hero1 {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .frame-with-text-input {
+    gap: var(--gap-21xl);
+  }
+  .testimonial-frames {
+    flex: 1;
+  }
+  .testimonial-frames-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-76xl);
+  }
+  .g-frame-parent {
+    flex-wrap: wrap;
+  }
+  .footer4 {
+    padding-left: var(--padding-23xl);
+    padding-right: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .home-group {
+    display: none;
+  }
+  .vector1 {
+    width: 1216px;
+  }
+  .services6 {
+    gap: var(--gap-81xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .about-us4 {
+    font-size: var(--h2-size);
+  }
+  .text5 {
+    gap: var(--gap-6xl);
+  }
+  .hero1 {
+    gap: var(--gap-24xl);
+    padding-top: var(--padding-33xl);
+    padding-bottom: var(--padding-76xl);
+    box-sizing: border-box;
+  }
+  .empowering-minds-our1 {
+    font-size: var(--h3-size);
+  }
+  .frame-with-masks {
+    gap: var(--gap-21xl);
+    min-width: 100%;
+  }
+  .mental-counseling3 {
+    font-size: var(--font-size-15xl);
+  }
+  .rectangle-in-mask-group-parent {
+    padding-top: 138px;
+    padding-bottom: 137px;
+    box-sizing: border-box;
+  }
+  .frame-with-masks1 {
+    min-width: 100%;
+  }
+  .frame-with-masks1,
+  .mask-groups-frame,
+  .text-parent {
+    gap: var(--gap-21xl);
+  }
+  .join-to-our2 {
+    font-size: var(--h2-size);
+  }
+  .frame-with-join-label {
+    gap: var(--gap-6xl);
+  }
+  .frame-with-text-input {
+    gap: var(--gap-xl);
+  }
+  .testimonial-frame-group {
+    padding-top: var(--padding-45xl);
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .healing-words-testimonials2 {
+    font-size: var(--h3-size);
+  }
+  .testimonial-frames {
+    min-width: 100%;
+  }
+  .rectangle-frame-mask,
+  .rectangle-frame-mask1 {
+    padding-top: var(--padding-23xl);
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+  .call-message-location-frame {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .testimonial-frames-parent {
+    gap: var(--gap-29xl);
+  }
+  .home-about-services-frame {
+    gap: var(--gap-11xl);
+  }
+  .footer4 {
+    padding: var(--padding-36xl) var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .services6 {
+    gap: var(--gap-31xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .home-group {
+    gap: var(--gap-6xl);
+  }
+  .about-us4 {
+    font-size: var(--font-size-22xl);
+  }
+  .hero1 {
+    gap: var(--gap-2xl);
+  }
+  .services8 {
+    font-size: var(--body1-light-size);
+  }
+  .empowering-minds-our1 {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-with-masks {
+    gap: var(--gap-xl);
+  }
+  .mental-counseling3 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-in-mask-group-parent {
+    gap: var(--gap-6xl);
+  }
+  .frame-with-masks1,
+  .mask-groups-frame,
+  .text-parent {
+    gap: var(--gap-xl);
+  }
+  .join-to-our2 {
+    font-size: var(--font-size-22xl);
+  }
+  .youremail {
+    margin-left: 0;
+  }
+  .testimonials2 {
+    font-size: var(--body1-light-size);
+  }
+  .healing-words-testimonials2 {
+    font-size: var(--font-size-13xl);
+  }
+  .george-j-4 {
+    font-size: var(--body1-light-size);
+  }
+  .maskgroup-text {
+    gap: var(--gap-6xl);
+  }
+  .rectangle-frame-mask {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .george-j-5 {
+    font-size: var(--body1-light-size);
+  }
+  .mask-group-parent9 {
+    gap: var(--gap-6xl);
+  }
+  .rectangle-frame-mask1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .call-message-location-frame {
+    gap: var(--gap-4xl);
+  }
+  .testimonial-frames-parent {
+    gap: var(--gap-5xl);
+  }
+  .contact3,
+  .links3,
+  .maps4,
+  .mindfulcare6,
+  .services9 {
+    font-size: var(--h6-size);
+  }
+}
