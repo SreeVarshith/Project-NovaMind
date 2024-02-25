@@ -2,6 +2,8 @@
 
 Welcome to NovaMind, an innovative project aimed at enhancing mental health awareness and accessibility for university students. In the midst of academic, social, and personal challenges, NovaMind serves as a comprehensive solution to address mental health issues through various features and functionalities.
 
+
+
 ## Problem Statement
 
 University students face a myriad of challenges, including academic pressures, social expectations, and personal issues. Mental health stigma and limited access to resources exacerbate these challenges, leading to untreated cases and worsening existing conditions. NovaMind is designed to tackle these issues head-on.<br>
