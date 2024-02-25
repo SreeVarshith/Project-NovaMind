@@ -85,3 +85,12 @@ Feel free to explore, contribute, and join us in fostering mental well-being wit
 git clone https://github.com/yourusername/NovaMind.git
 cd NovaMind
 
+Install dependencies:
+
+Copy code
+npm install
+
+Run the application:
+
+Copy code
+npm start
