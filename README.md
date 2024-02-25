@@ -62,14 +62,18 @@ Open the index.html file in a web browser to explore the project.
 If you encounter any issues or need support, please open an issue on the GitHub repository.
 
 
-About the Developer
-Developer: [Your Name]
-GitHub: Your GitHub Profile
+## Team
+1) Satla Sree Varshith
+GitHub: [Github Profile](https://github.com/SreeVarshith)
+
+2) Bhuvan Lohit Dev Nakka
+GitHub: [Github Profile](https://github.com/Bhuvan983)
+
 Feel free to explore, contribute, and join us in fostering mental well-being with NovaMind. Minds Illuminated, Lives Transformed.
 
 
 
-1. Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/NovaMind.git
