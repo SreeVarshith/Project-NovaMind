@@ -78,7 +78,7 @@ Our website is a prototype replicating our innovative idea. While it is not full
 
 - Deploy the Face Emotion Recognition Model.
 - Finalize and launch the website prototype.
-
+- The Backend Of the web Application has to be done.
 
 To explore NovaMind, visit the [NovaMind Website](https://sreevarshith.github.io/Project-NovaMind/).
 
