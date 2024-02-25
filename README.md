@@ -7,7 +7,10 @@ Project Demo Video
 
 [![Watch the video](https://github.com/SreeVarshith/Project-NovaMind/assets/95604448/062a1f5d-d54d-4246-81fc-97edd59deafc)](https://youtu.be/1p4WiTS7c5U)
 
-<a href="https://youtu.be/1p4WiTS7c5U&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=2"><img src="images/thumbnail-1-01.jpg"></a>
+<a href="https://www.youtube.com/watch?v=1p4WiTS7c5U" target="_blank">
+  <img src="https://raw.githubusercontent.com/SreeVarshith/Project-NovaMind/main/assets/95604448/062a1f5d-d54d-4246-81fc-97edd59deafc" alt="Video Thumbnail">
+</a>
+
 
 ## Problem Statement
 
