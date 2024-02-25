@@ -110,7 +110,7 @@ Feel free to explore, contribute, and join us in fostering mental well-being wit
 ## Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/NovaMind.git
+git clone https://github.com/SreeVarshith/Project-NovaMind.git
 cd NovaMind
 
 Install dependencies:
