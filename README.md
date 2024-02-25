@@ -54,6 +54,10 @@ University students face a myriad of challenges, including academic pressures, s
 
 To explore NovaMind, visit the [NovaMind Website](https://sreevarshith.github.io/Project-NovaMind/).
 
+The comprehensive project presentation is accessible here.[Click Here](https://github.com/SreeVarshith/Project-NovaMind/blob/main/NovaMIND%20Project%20PPT.pdf).
+
+
+
 ## Installation and Usage
 Clone the repository to your local machine.
 Open the index.html file in a web browser to explore the project.
