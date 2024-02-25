@@ -4,7 +4,7 @@ Welcome to NovaMind, an innovative project aimed at enhancing mental health awar
 
 ## Problem Statement
 
-University students face a myriad of challenges, including academic pressures, social expectations, and personal issues. Mental health stigma and limited access to resources exacerbate these challenges, leading to untreated cases and worsening existing conditions. NovaMind is designed to tackle these issues head-on.
+University students face a myriad of challenges, including academic pressures, social expectations, and personal issues. Mental health stigma and limited access to resources exacerbate these challenges, leading to untreated cases and worsening existing conditions. NovaMind is designed to tackle these issues head-on.<br>
 ![image](https://github.com/SreeVarshith/Project-NovaMind/assets/94850851/551ba731-6992-4336-8d23-92cf7131ed6d)
 
 ## Features
