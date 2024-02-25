@@ -64,6 +64,21 @@ University students face a myriad of challenges, including academic pressures, s
 - Ensuring a safe and confidential environment for seeking assistance.
 
 ## Getting Started
+# Project Status
+
+**Face Emotion Recognition Model Deployment: In Progress**
+
+The Face Emotion Recognition Model is developed and has not yet been deployed. We are actively working on this and will provide updates as we progress.
+
+**Website Prototype: Work in Progress**
+
+Our website is a prototype replicating our innovative idea. While it is not fully finalized, we will try completing it soon.
+
+## Things Left to Do
+
+- Deploy the Face Emotion Recognition Model.
+- Finalize and launch the website prototype.
+
 
 To explore NovaMind, visit the [NovaMind Website](https://sreevarshith.github.io/Project-NovaMind/).
 
