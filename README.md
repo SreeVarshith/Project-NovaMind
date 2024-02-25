@@ -2,7 +2,6 @@
 
 Welcome to NovaMind, an innovative project aimed at enhancing mental health awareness and accessibility for university students. In the midst of academic, social, and personal challenges, NovaMind serves as a comprehensive solution to address mental health issues through various features and functionalities.
 
- https://sreevarshith.github.io/Project-NovaMind/
 
 ## Problem Statement
 
@@ -58,3 +57,18 @@ University students face a myriad of challenges, including academic pressures, s
 ```bash
 git clone https://github.com/yourusername/NovaMind.git
 cd NovaMind
+
+To explore NovaMind, visit the NovaMind Website.
+
+Installation and Usage
+Clone the repository to your local machine.
+Open the index.html file in a web browser to explore the project.
+
+Issues and Support
+If you encounter any issues or need support, please open an issue on the GitHub repository.
+
+
+About the Developer
+Developer: [Your Name]
+GitHub: Your GitHub Profile
+Feel free to explore, contribute, and join us in fostering mental well-being with NovaMind. Minds Illuminated, Lives Transformed.
