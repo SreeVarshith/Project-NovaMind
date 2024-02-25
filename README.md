@@ -2,7 +2,7 @@
 
 Welcome to NovaMind, an innovative project aimed at enhancing mental health awareness and accessibility for university students. In the midst of academic, social, and personal challenges, NovaMind serves as a comprehensive solution to address mental health issues through various features and functionalities.
 
-
+ https://sreevarshith.github.io/Project-NovaMind/
 
 ## Problem Statement
 
