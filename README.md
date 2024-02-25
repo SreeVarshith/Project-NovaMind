@@ -5,7 +5,7 @@ Welcome to NovaMind, an innovative project aimed at enhancing mental health awar
 Project Demo Video
 ![video](https://youtu.be/1p4WiTS7c5U)
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/1p4WiTS7c5U)
+[![Watch the video](https://github.com/SreeVarshith/Project-NovaMind/assets/95604448/062a1f5d-d54d-4246-81fc-97edd59deafc)](https://youtu.be/1p4WiTS7c5U)
 
 
 ## Problem Statement
