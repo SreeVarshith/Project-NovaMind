@@ -111,7 +111,7 @@ Feel free to explore, contribute, and join us in fostering mental well-being wit
 
 ```bash
 git clone https://github.com/SreeVarshith/Project-NovaMind.git
-cd NovaMind
+cd Project-NovaMind
 
 Install dependencies:
 
