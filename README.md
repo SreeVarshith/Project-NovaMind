@@ -7,6 +7,7 @@ Project Demo Video
 
 [![Watch the video](https://github.com/SreeVarshith/Project-NovaMind/assets/95604448/062a1f5d-d54d-4246-81fc-97edd59deafc)](https://youtu.be/1p4WiTS7c5U)
 
+[![Video Title](https://img.youtube.com/vi/1p4WiTS7c5U/0.jpg)](https://youtu.be/1p4WiTS7c5U)
 
 ## Problem Statement
 
