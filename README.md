@@ -1,4 +1,4 @@
-# NovaMind: Fostering Mental Well-being for University Students
+# NovaMind: Fostering Mental Well-being 
 
 Welcome to NovaMind, an innovative project aimed at enhancing mental health awareness and accessibility for university students. In the midst of academic, social, and personal challenges, NovaMind serves as a comprehensive solution to address mental health issues through various features and functionalities.
 
