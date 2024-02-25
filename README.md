@@ -52,19 +52,13 @@ University students face a myriad of challenges, including academic pressures, s
 
 ## Getting Started
 
-1. Clone the repository:
+To explore NovaMind, visit the [NovaMind Website](https://sreevarshith.github.io/Project-NovaMind/).
 
-```bash
-git clone https://github.com/yourusername/NovaMind.git
-cd NovaMind
-
-To explore NovaMind, visit the NovaMind Website.
-
-Installation and Usage
+## Installation and Usage
 Clone the repository to your local machine.
 Open the index.html file in a web browser to explore the project.
 
-Issues and Support
+## Issues and Support
 If you encounter any issues or need support, please open an issue on the GitHub repository.
 
 
@@ -72,3 +66,12 @@ About the Developer
 Developer: [Your Name]
 GitHub: Your GitHub Profile
 Feel free to explore, contribute, and join us in fostering mental well-being with NovaMind. Minds Illuminated, Lives Transformed.
+
+
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/NovaMind.git
+cd NovaMind
+
