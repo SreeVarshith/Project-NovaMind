@@ -5,6 +5,9 @@ Welcome to NovaMind, an innovative project aimed at enhancing mental health awar
 Project Demo Video
 ![video](https://youtu.be/1p4WiTS7c5U)
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/1p4WiTS7c5U)
+
+
 ## Problem Statement
 
 University students face a myriad of challenges, including academic pressures, social expectations, and personal issues. Mental health stigma and limited access to resources exacerbate these challenges, leading to untreated cases and worsening existing conditions. NovaMind is designed to tackle these issues head-on.<br>
